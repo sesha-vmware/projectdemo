@@ -1,3 +1,7 @@
-I've named it with file2
+<<<<<<< HEAD
+user one changed it I've named it with file2
+=======
+user one changed it I've named it with file2
+>>>>>>> dev
 
 
